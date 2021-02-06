@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+build/
+node_modules*/
+jsconfig.json
+
+
+# ban DS_Store
+.DS_Store
